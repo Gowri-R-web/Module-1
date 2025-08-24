@@ -1,7 +1,7 @@
 ## Experiment No: 1d – Conditional Statements- Checking Even or Odd
 
 ## AIM  
-To Write a Python program to check whether the given character is a vowel or not using if..else statement
+To Write a Python program to check whether the given character is a even or odd using if..else statement
 ## ALGORITHM  
 1. Begin the program
 2. Input a number n
